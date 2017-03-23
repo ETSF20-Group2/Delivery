@@ -1,0 +1,12 @@
+# Folders
+.settings
+.idea
+out
+.DS_Store
+
+# Files
+.classpath
+.project
+*.iml
+*.jar
+/build/
